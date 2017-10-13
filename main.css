@@ -41,7 +41,7 @@ input {
   font-family: calibri;
 }
 
-.generate {
+.submit {
   margin-top: 10px;
   background-color: grey;
   color: white;
@@ -56,3 +56,10 @@ img {
   border-style: double;
   border-color: white;
 }
+
+.resultSection {
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 35px;
